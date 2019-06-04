@@ -1,0 +1,21 @@
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.AboutForm.resources
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.ColorForm.resources
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\For students\Мила С\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\Вариант 1\lab2\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.AboutForm.resources
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.ColorForm.resources
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\nedmk\Desktop\учеба-2\работы\Визуальное программирование и человеко-машинное взаимодействие (часть 1)\лабораторная работа 2\lab2\lab2\obj\Debug\lab2.pdb
